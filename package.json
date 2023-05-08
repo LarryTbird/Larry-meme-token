@@ -3,7 +3,7 @@
   "scripts": {
     "test": "npx hardhat test",
     "start": "npx hardhat compile",
-    "deploy" : "npx hardhat run scripts/deploy.js --network customNetwork"
+    "deploy": "npx hardhat run scripts/deploy.js --network customNetwork"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
